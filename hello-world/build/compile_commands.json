@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/letya/Exercism/workspace/cpp/hello-world/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\hello-world.dir\\hello_world_test.cpp.obj -c C:\\Users\\letya\\Exercism\\workspace\\cpp\\hello-world\\hello_world_test.cpp",
+  "file": "C:/Users/letya/Exercism/workspace/cpp/hello-world/hello_world_test.cpp",
+  "output": "CMakeFiles/hello-world.dir/hello_world_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/letya/Exercism/workspace/cpp/hello-world/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\hello-world.dir\\hello_world.cpp.obj -c C:\\Users\\letya\\Exercism\\workspace\\cpp\\hello-world\\hello_world.cpp",
+  "file": "C:/Users/letya/Exercism/workspace/cpp/hello-world/hello_world.cpp",
+  "output": "CMakeFiles/hello-world.dir/hello_world.cpp.obj"
+},
+{
+  "directory": "C:/Users/letya/Exercism/workspace/cpp/hello-world/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles\\hello-world.dir\\test\\tests-main.cpp.obj -c C:\\Users\\letya\\Exercism\\workspace\\cpp\\hello-world\\test\\tests-main.cpp",
+  "file": "C:/Users/letya/Exercism/workspace/cpp/hello-world/test/tests-main.cpp",
+  "output": "CMakeFiles/hello-world.dir/test/tests-main.cpp.obj"
+}
+]
