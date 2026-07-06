@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/letya/Exercism/workspace/cpp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -Wno-unused-parameter -o CMakeFiles\\lasagna.dir\\lasagna_test.cpp.obj -c C:\\Users\\letya\\Exercism\\workspace\\cpp\\lasagna\\lasagna_test.cpp",
+  "file": "C:/Users/letya/Exercism/workspace/cpp/lasagna/lasagna_test.cpp",
+  "output": "CMakeFiles/lasagna.dir/lasagna_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/letya/Exercism/workspace/cpp/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -Wno-unused-parameter -o CMakeFiles\\lasagna.dir\\test\\tests-main.cpp.obj -c C:\\Users\\letya\\Exercism\\workspace\\cpp\\lasagna\\test\\tests-main.cpp",
+  "file": "C:/Users/letya/Exercism/workspace/cpp/lasagna/test/tests-main.cpp",
+  "output": "CMakeFiles/lasagna.dir/test/tests-main.cpp.obj"
+}
+]
