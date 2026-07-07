@@ -56,5 +56,6 @@
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
-  "cmake.sourceDirectory": "C:/Users/letya/Exercism/workspace/cpp/lasagna"
+  "cmake.sourceDirectory": "C:/Users/letya/Exercism/workspace/cpp",
+  "C_Cpp.errorSquiggles": "enabled"
 }
