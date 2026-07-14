@@ -1,4 +1,0 @@
-C:/Users/letya/Exercism/workspace/cpp/build/CMakeFiles/lasagna.dir
-C:/Users/letya/Exercism/workspace/cpp/build/CMakeFiles/test_lasagna.dir
-C:/Users/letya/Exercism/workspace/cpp/build/CMakeFiles/edit_cache.dir
-C:/Users/letya/Exercism/workspace/cpp/build/CMakeFiles/rebuild_cache.dir
